@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \CocoaLigature0 sh-4.1# bin/hadoop jar PairApproach.jar part2.PairApproach /user/cloudera/crystal/input /user/cloudera/crystal/output\
+20/06/06 17:59:58 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032\
+20/06/06 17:59:59 WARN mapreduce.JobResourceUploader: Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.\
+20/06/06 17:59:59 INFO input.FileInputFormat: Total input paths to process : 2\
+20/06/06 17:59:59 INFO mapreduce.JobSubmitter: number of splits:2\
+20/06/06 17:59:59 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1591468024315_0031\
+20/06/06 18:00:00 INFO impl.YarnClientImpl: Submitted application application_1591468024315_0031\
+20/06/06 18:00:00 INFO mapreduce.Job: The url to track the job: http://35353340e4ce:8088/proxy/application_1591468024315_0031/\
+20/06/06 18:00:00 INFO mapreduce.Job: Running job: job_1591468024315_0031\
+20/06/06 18:00:08 INFO mapreduce.Job: Job job_1591468024315_0031 running in uber mode : false\
+20/06/06 18:00:08 INFO mapreduce.Job:  map 0% reduce 0%\
+20/06/06 18:00:15 INFO mapreduce.Job:  map 100% reduce 0%\
+20/06/06 18:00:23 INFO mapreduce.Job:  map 100% reduce 100%\
+20/06/06 18:00:23 INFO mapreduce.Job: Job job_1591468024315_0031 completed successfully\
+20/06/06 18:00:23 INFO mapreduce.Job: Counters: 49\
+	File System Counters\
+		FILE: Number of bytes read=1434\
+		FILE: Number of bytes written=348305\
+		FILE: Number of read operations=0\
+		FILE: Number of large read operations=0\
+		FILE: Number of write operations=0\
+		HDFS: Number of bytes read=356\
+		HDFS: Number of bytes written=390\
+		HDFS: Number of read operations=9\
+		HDFS: Number of large read operations=0\
+		HDFS: Number of write operations=2\
+	Job Counters \
+		Launched map tasks=2\
+		Launched reduce tasks=1\
+		Data-local map tasks=2\
+		Total time spent by all maps in occupied slots (ms)=10096\
+		Total time spent by all reduces in occupied slots (ms)=4694\
+		Total time spent by all map tasks (ms)=10096\
+		Total time spent by all reduce tasks (ms)=4694\
+		Total vcore-seconds taken by all map tasks=10096\
+		Total vcore-seconds taken by all reduce tasks=4694\
+		Total megabyte-seconds taken by all map tasks=10338304\
+		Total megabyte-seconds taken by all reduce tasks=4806656\
+	Map-Reduce Framework\
+		Map input records=2\
+		Map output records=102\
+		Map output bytes=1224\
+		Map output materialized bytes=1440\
+		Input split bytes=246\
+		Combine input records=0\
+		Combine output records=0\
+		Reduce input groups=30\
+		Reduce shuffle bytes=1440\
+		Reduce input records=102\
+		Reduce output records=30\
+		Spilled Records=204\
+		Shuffled Maps =2\
+		Failed Shuffles=0\
+		Merged Map outputs=2\
+		GC time elapsed (ms)=74\
+		CPU time spent (ms)=2180\
+		Physical memory (bytes) snapshot=658513920\
+		Virtual memory (bytes) snapshot=2199007232\
+		Total committed heap usage (bytes)=440926208\
+	Shuffle Errors\
+		BAD_ID=0\
+		CONNECTION=0\
+		IO_ERROR=0\
+		WRONG_LENGTH=0\
+		WRONG_MAP=0\
+		WRONG_REDUCE=0\
+	File Input Format Counters \
+		Bytes Read=110\
+	File Output Format Counters \
+		Bytes Written=390\
+sh-4.1# bin/hadoop fs -cat /user/cloudera/crystal/output/*\
+<A10, A12>	2\
+<A10, B11>	4\
+<A10, B12>	5\
+<A10, C31>	6\
+<A10, D76>	6\
+<A12, A10>	1\
+<A12, B11>	2\
+<A12, B12>	3\
+<A12, C31>	4\
+<A12, D76>	2\
+<B11, A10>	2\
+<B11, A12>	2\
+<B11, B12>	4\
+<B11, C31>	7\
+<B11, D76>	4\
+<B12, A10>	1\
+<B12, A12>	1\
+<B12, B11>	4\
+<B12, C31>	6\
+<B12, D76>	3\
+<C31, A10>	2\
+<C31, A12>	2\
+<C31, B11>	3\
+<C31, B12>	4\
+<C31, D76>	4\
+<D76, A10>	1\
+<D76, A12>	2\
+<D76, B11>	4\
+<D76, B12>	5\
+<D76, C31>	6\
+sh-4.1# \
+}
