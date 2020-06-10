@@ -1,0 +1,30 @@
+Jun 09, 2020 8:02:18 PM StripeApproach$Map setup
+INFO: ==== Mapper output ====
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: A10, A12 : 1, B12 : 3, B11 : 3, D76 : 3, C31 : 3
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: D76
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: D76, B12 : 1, B11 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B12, B11 : 1, D76 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B11, B12 : 1, D76 : 1, C31 : 2
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: C31, B12 : 1, D76 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: D76, A12 : 1, B12 : 2, B11 : 2, C31 : 2
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B12, A12 : 1, B11 : 1, C31 : 2
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: C31, A12 : 1, B11 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B11, A12 : 1, B12 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: A12, B12 : 1, B11 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: C31, B12 : 1, B11 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B12, B11 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B11

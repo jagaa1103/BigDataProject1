@@ -1,0 +1,193 @@
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: ==== Mapper output ====
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, D76), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, D76), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, B12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, B11), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, D76), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, B12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, B11), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, A12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, B12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, B11), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (A10, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, B12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, B11), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B12, B11), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B12, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B12, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B12, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B12, D76), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B12, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, D76), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, B12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (B11, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (C31, D76), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (C31, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (C31, B12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (C31, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, B12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, B11), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, A12), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, C31), 1
+Jun 09, 2020 4:12:04 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (D76, B12), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (D76, B11), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (D76, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, C31), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, B11), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, A12), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, C31), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, B11), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, A12), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B11, A12), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B11, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B11, C31), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B11, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B11, B12), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B11, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (A12, C31), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (A12, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (A12, B12), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (A12, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (A12, B11), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (A12, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, B12), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, B11), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (C31, * ), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, B11), 1
+Jun 09, 2020 4:12:05 PM PairApproach$Map map
+INFO: (B12, * ), 1
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.impl.MetricsSystemImpl).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.

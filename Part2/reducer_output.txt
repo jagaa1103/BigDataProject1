@@ -1,0 +1,65 @@
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce setup
+INFO: ==== Reducer output ====
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A10, A12), 0.08695652173913043)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A10, B11), 0.17391304347826086)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A10, B12), 0.21739130434782608)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A10, C31), 0.2608695652173913)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A10, D76), 0.2608695652173913)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A12, A10), 0.08333333333333333)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A12, B11), 0.16666666666666666)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A12, B12), 0.25)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A12, C31), 0.3333333333333333)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((A12, D76), 0.16666666666666666)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B11, A10), 0.10526315789473684)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B11, A12), 0.10526315789473684)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B11, B12), 0.21052631578947367)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B11, C31), 0.3684210526315789)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B11, D76), 0.21052631578947367)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B12, A10), 0.06666666666666667)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B12, A12), 0.06666666666666667)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B12, B11), 0.26666666666666666)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B12, C31), 0.4)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((B12, D76), 0.2)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((C31, A10), 0.13333333333333333)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((C31, A12), 0.13333333333333333)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((C31, B11), 0.2)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((C31, B12), 0.26666666666666666)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((C31, D76), 0.26666666666666666)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((D76, A10), 0.05555555555555555)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((D76, A12), 0.1111111111111111)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((D76, B11), 0.2222222222222222)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((D76, B12), 0.2777777777777778)
+Jun 09, 2020 4:12:10 PM PairApproach$Reduce reduce
+INFO: ((D76, C31), 0.3333333333333333)
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.impl.MetricsSystemImpl).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.

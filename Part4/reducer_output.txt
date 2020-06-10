@@ -1,0 +1,29 @@
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce setup
+INFO: ==== Reducer ouput ====
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce reduce
+INFO: sum = 23.0
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce reduce
+INFO: sum = 12.0
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce reduce
+INFO: sum = 19.0
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce reduce
+INFO: sum = 15.0
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce reduce
+INFO: sum = 15.0
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce reduce
+INFO: sum = 18.0
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce print
+INFO: B11, A12 : 0.10526315789473684, A10 : 0.10526315789473684, B12 : 0.21052631578947367, D76 : 0.21052631578947367, C31 : 0.3684210526315789
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce print
+INFO: B12, A12 : 0.06666666666666667, A10 : 0.06666666666666667, B11 : 0.26666666666666666, D76 : 0.2, C31 : 0.4
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce print
+INFO: A10, A12 : 0.08695652173913043, B12 : 0.21739130434782608, B11 : 0.17391304347826086, D76 : 0.2608695652173913, C31 : 0.2608695652173913
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce print
+INFO: A12, A10 : 0.08333333333333333, B12 : 0.25, B11 : 0.16666666666666666, D76 : 0.16666666666666666, C31 : 0.3333333333333333
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce print
+INFO: D76, A12 : 0.1111111111111111, A10 : 0.05555555555555555, B12 : 0.2777777777777778, B11 : 0.2222222222222222, C31 : 0.3333333333333333
+Jun 09, 2020 8:01:04 PM PairAndStripeApproach$Reduce print
+INFO: C31, A12 : 0.13333333333333333, A10 : 0.13333333333333333, B12 : 0.26666666666666666, B11 : 0.2, D76 : 0.26666666666666666
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.impl.MetricsSystemImpl).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.

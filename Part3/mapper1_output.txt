@@ -1,0 +1,33 @@
+Jun 09, 2020 8:02:18 PM StripeApproach$Map setup
+INFO: ==== Mapper output ====
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B11, A12 : 1, A10 : 2, B12 : 2, D76 : 3, C31 : 4
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: C31, A12 : 1, A10 : 1, B12 : 1, D76 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: A10, A12 : 1, B12 : 1, D76 : 2, C31 : 2
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: D76, A12 : 1, B12 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: A12, A10 : 1, B12 : 2, B11 : 1, D76 : 2, C31 : 3
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B12, A10 : 1, D76 : 1, C31 : 2
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: C31, D76 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: D76, A10 : 1, B12 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: C31, A10 : 1, B12 : 1, D76 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: A10, B12 : 1, B11 : 1, D76 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B12, B11 : 1, D76 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: D76, B11 : 1, C31 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: C31, B11 : 1
+Jun 09, 2020 8:02:18 PM StripeApproach$Map print
+INFO: B11
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.impl.MetricsSystemImpl).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
